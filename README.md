@@ -1,4 +1,4 @@
-# GitHub-Discord
+# GitHub + Discord
 
 This is a GitHub + Discord Integration Repo
 
